@@ -1,0 +1,33 @@
+
+.containerBot {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .left {
+    background: white;
+    width: 50%;
+    display: flex;
+    flex-direction: row;
+    flex-grow: 1;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    margin-top: 40px;
+  
+  }
+  
+  img{
+    /* width: 1150px; */
+    object-fit: contain;
+    height: 600px;
+  }
+  
+  .right {
+    /* background-color: #5374C9; */
+    /* color: white; */
+    width: 50%;
+    flex-grow: 1;
+    min-height: 100vh;
+    justify-content: flex-start;
+  }
+ 
