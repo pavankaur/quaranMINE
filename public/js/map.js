@@ -17,7 +17,7 @@ function initMap() {
       zoom: 14,
       center: myLatLng2,
     });
-    // The marker, positioned at Uluru
+    
 
     var contentString = "Alexa's Flower";
     var infowindow = new google.maps.InfoWindow({
