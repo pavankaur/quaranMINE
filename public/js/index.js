@@ -1,6 +1,6 @@
 // function initFirebase(){
 //     const firebaseConfig = {
-//         apiKey: "AIzaSyDuhAn69QUqyU92gzLBhWCmbh3ynv2w1G0",
+//         apiKey: "APIKEY",
 //         authDomain: "quaranmine.firebaseapp.com",
 //         projectId: "quaranmine",
 //         storageBucket: "quaranmine.appspot.com",
@@ -11,7 +11,7 @@
 
 function initFirebase(){
     firebase.initializeApp({
-        apiKey: "AIzaSyDuhAn69QUqyU92gzLBhWCmbh3ynv2w1G0",
+        apiKey: "APIKEY",
         authDomain: "quaranmine.firebaseapp.com",
         projectId: "quaranmine",
         storageBucket: "quaranmine.appspot.com",
